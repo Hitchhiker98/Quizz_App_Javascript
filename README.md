@@ -1,3 +1,3 @@
-# Regular Quizz App made in javasctipt
+# Quizz application logic written in javasctipt
 
-## [Live demo here](https://hitchhiker98.github.io/Quizz_App_Javascript/)
+## [Click to see a live demo.](https://hitchhiker98.github.io/Quizz_App_Javascript/)
